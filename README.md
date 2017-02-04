@@ -18,3 +18,13 @@ Output format for airfoil geometry (applied during airfoil image analysis and co
 Output format for calculated parameters: NMLOUT
 
 Output format for saving of displayed image in MAC/STAB application: PNG (24 bit)
+
+
+
+If you use this software please cite the following references in your work (books, articles, reports, etc.):
+
+URL:
+https://github.com/vogeltanz/MACSTAB-Calculator
+
+paper:
+Vogeltanz, Tomas. 2016. Application for Calculation of Mean Aerodynamic Chord of Arbitrary Wing Planform. AIP Conference Proceedings, vol. 1738 : 120018. ISSN: 0094-243X. DOI: 10.1063/1.4951901. Available at: http://aip.scitation.org/doi/abs/10.1063/1.4951901
