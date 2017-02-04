@@ -6,15 +6,9 @@ The application helps to reduce the financial cost of the conceptual design and 
 
 
 Input and Output project format: MACSTAB
-
 Input format with wing planform geometry: NML Output format for wing planform geometry: NML, VSP2
-
 Input image format for geometry analysis of wing planform or airfoil: PNG (1 bit – 2 colors)
-
 Input formats with airfoil geometry (applied during VSP2 export): Selig (dat), Lednicer (dat), NASA/OpenVSP (af)
-
 Output format for airfoil geometry (applied during airfoil image analysis and conversion): Selig (dat)
-
 Output format for calculated parameters: NMLOUT
-
 Output format for saving of displayed image in MAC/STAB application: PNG (24 bit)
