@@ -20,6 +20,7 @@ Output format for calculated parameters: NMLOUT
 Output format for saving of displayed image in MAC/STAB application: PNG (24 bit)
 <BR>
 <BR>
+<BR>
 <b>If you use this software please cite the following references in your work (books, articles, reports, etc.):</b>
 <BR>
 URL:<BR>
