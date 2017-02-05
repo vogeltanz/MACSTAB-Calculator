@@ -20,6 +20,18 @@ Výstupní formát pro uložení zobrazeného obrázku v aplikaci MAC/STAB: PNG 
 <BR>
 <BR>
 <BR>
+Inspirováno:
+<BR>
+    GETMAC application: http://www.pdas.com/getmac.html<BR>
+    Aircraft Center of Gravity Calculator: http://adamone.rchomepage.com/cg_calc.htm
+<BR>
+<BR>
+Tato aplikace použivá následující knihovny a konzolové aplikace:
+<BR>
+    wxWidgets 3.0.2 library: https://www.wxwidgets.org/
+<BR>
+<BR>
+<BR>
 <b>Pokud používáte tento software, prosím, citujte následující reference ve vaší práci (knihy, články, reporty, atd.):</b>
 <BR>
 URL:<BR>
