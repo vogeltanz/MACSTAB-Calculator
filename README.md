@@ -26,6 +26,7 @@ Inspired by:
     GETMAC application: http://www.pdas.com/getmac.html<BR>
     Aircraft Center of Gravity Calculator: http://adamone.rchomepage.com/cg_calc.htm
 <BR>
+<BR>
 This application uses or utilizes the following libraries and console applications:
 <BR>
     wxWidgets 3.0.2 library: https://www.wxwidgets.org/
