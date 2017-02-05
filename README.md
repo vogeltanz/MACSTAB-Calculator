@@ -23,7 +23,7 @@ Output format for saving of displayed image in MAC/STAB application: PNG (24 bit
 <BR>
 Inspired by:
 <BR>
-    GETMAC application: http://www.pdas.com/getmac.html
+    GETMAC application: http://www.pdas.com/getmac.html<BR>
     Aircraft Center of Gravity Calculator: http://adamone.rchomepage.com/cg_calc.htm
 <BR>
 This application uses or utilizes the following libraries and console applications:
